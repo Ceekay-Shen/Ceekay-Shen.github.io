@@ -3,7 +3,7 @@
 > Yet another man.
 
 
-Hi, I am *@ShenDubo* (Shen, Dubo), a software engineer & a designer. I previously worked as Web Front-End Engineer at [H3C](https://www.h3c.com/).
+Hi, I am *@ShenDubo* (Shen, Dubo), a software engineer & a designer. I previously worked as Software Engineer at [H3C](http://www.h3c.com/).
 
 I studied Computer Science from [LiaoNing University](https://en.wikipedia.org/wiki/Liaoning_University) by 2011.
 
