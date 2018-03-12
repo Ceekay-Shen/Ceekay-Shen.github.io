@@ -1,6 +1,6 @@
 #Hux Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Hux Blog &rarr;](https://github.com/Ceekay-Shen/Ceekay-Shen.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
