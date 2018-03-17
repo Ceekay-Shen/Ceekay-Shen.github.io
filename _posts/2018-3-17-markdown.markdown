@@ -12,9 +12,9 @@ tags:
     - 语法
 ---
 
-> “You need learning markdown. ”
+> “You need learning markdown. ”  
 
-[TOC]
+[TOC]  
 
 # Markdown begin!!!
 
