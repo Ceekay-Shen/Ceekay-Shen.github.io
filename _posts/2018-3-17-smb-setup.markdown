@@ -50,5 +50,15 @@ tags:
 
 [Samba配置文件常用参数详解](http://blog.51cto.com/yuanbin/115761)
 
+## smb安装异常处理    
+
+**异常**  
+
+Failed to preset unit: Unit file /etc/systemd/system/samba-ad-dc.service is masked.
+/usr/bin/deb-systemd-helper: error: systemctl preset failed on samba-ad-dc.service: No such file or directory
+
+**处理办法**
+
+sudo systemctl mask samba-ad-dc.service
 
 —— Shen 后记于 2018.3
