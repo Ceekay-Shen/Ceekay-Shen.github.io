@@ -14,7 +14,6 @@ tags:
 
 > “You need learning markdown. ”  
 
-[TOC]  
 
 # Markdown begin!!!
 
@@ -245,3 +244,6 @@ console.log(num);
 ```
 
 
+## 后续
+
+今天先写到这，有时间在继续整理。
