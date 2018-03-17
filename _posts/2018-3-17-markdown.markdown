@@ -4,7 +4,7 @@ title:      "Markedown 语法"
 subtitle:   " \"markdown, 笔记, blog\""
 date:       2018-03-17 13:00:00
 author:     "Shen"
-header-img: "img/markdown-bg.png"
+header-img: "img/markdown-bg-new.jpg"
 catalog: true
 tags:
     - markdown
@@ -30,8 +30,8 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 ## let`s learning markdown
 
 ### 标题
-标题使用 "#" 来标注，共六级。
-[H1 ~  H6]
-[#  ~  ######]
+标题使用 "#" 来标注，共六级。  
+[H1 ~  H6]  
+[#  ~  ######]  
 一般来说#作为文章的大标题，只有一个，###作为段落标题。
 
