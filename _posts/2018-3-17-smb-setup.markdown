@@ -35,15 +35,20 @@ tags:
 
 3. 输入"sudo chmod 777 /home/share"-->回车,这样用户就对共享目录有了写权限。
 
-4. 打开配置文件smb.conf，输入“security = user”
-   [share] /* 共享名，不需要与共享目录同名 */  
+4. 打开配置文件smb.conf，输入“security = user”  
+   [share]                      /* 共享名，不需要与共享目录同名 */  
    comment = my share directory /* 对共享目录的描述 */  
-   path = /home/share /* 共享的目录 */  
-   browseable = yes   /* 该共享可以浏览 */  
-   writable = yes     /* 该共享目录可写 */  
+   path = /home/share           /* 共享的目录 */  
+   browseable = yes             /* 该共享可以浏览 */  
+   writable = yes               /* 该共享目录可写 */  
 
 5. 在终端中输入“sudo useradd smbuser”
    输入“sudo smbpasswd -a smbuser”
    然后重启smb服务，“sudo service smbd restart” 
+
+## smb常用配置资料
+
+[Samba配置文件常用参数详解](http://blog.51cto.com/yuanbin/115761)
+
 
 —— Shen 后记于 2018.3
